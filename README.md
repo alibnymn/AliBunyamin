@@ -40,8 +40,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/alibnymn#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/alibnymn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Ali Bunyamin#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Ali Bunyamin#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/AliBunyamin#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/AliBunyamin#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/alibnymn_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/alibnymn_#gh-dark-mode-only)
