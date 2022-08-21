@@ -14,7 +14,7 @@
    - Crew NEPAL TV
 
 ## Work Experience:
-#### 1. [PT. Jamparing Masagi](https://jmasagi.com/) | Junior Web Developer | Cimahi `Sep'2021 - `Des`2021
+#### 1. [PT. Jamparing Masagi](https://jmasagi.com/) | Junior Web Developer | Cimahi `Sep'2021 - `Des'2021
    - Maintenance Software and Hardware
    - application and website development
    - Check and control work equipment in the warehouse
